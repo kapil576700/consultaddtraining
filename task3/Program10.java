@@ -24,6 +24,7 @@ public class Program10 {
 			space--;
 			System.out.println();
 		}
+		sc.close();
 		
 	}
 
